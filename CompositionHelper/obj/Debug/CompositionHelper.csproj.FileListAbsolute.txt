@@ -1,0 +1,9 @@
+C:\Users\CB185249\source\repos\CalculateContract\CompositionHelper\obj\Debug\CompositionHelper.csprojAssemblyReference.cache
+C:\Users\CB185249\source\repos\CalculateContract\CompositionHelper\obj\Debug\CompositionHelper.csproj.CoreCompileInputs.cache
+C:\Users\CB185249\source\repos\CalculateContract\CompositionHelper\bin\Debug\CompositionHelper.dll
+C:\Users\CB185249\source\repos\CalculateContract\CompositionHelper\bin\Debug\CompositionHelper.pdb
+C:\Users\CB185249\source\repos\CalculateContract\CompositionHelper\bin\Debug\CalculateContract.dll
+C:\Users\CB185249\source\repos\CalculateContract\CompositionHelper\bin\Debug\CalculateContract.pdb
+C:\Users\CB185249\source\repos\CalculateContract\CompositionHelper\obj\Debug\CompositionHelper.csproj.CopyComplete
+C:\Users\CB185249\source\repos\CalculateContract\CompositionHelper\obj\Debug\CompositionHelper.dll
+C:\Users\CB185249\source\repos\CalculateContract\CompositionHelper\obj\Debug\CompositionHelper.pdb

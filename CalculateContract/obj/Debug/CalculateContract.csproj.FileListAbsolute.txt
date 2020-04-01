@@ -1,0 +1,6 @@
+C:\Users\CB185249\source\repos\CalculateContract\CalculateContract\bin\Debug\CalculateContract.dll
+C:\Users\CB185249\source\repos\CalculateContract\CalculateContract\bin\Debug\CalculateContract.pdb
+C:\Users\CB185249\source\repos\CalculateContract\CalculateContract\obj\Debug\CalculateContract.csprojAssemblyReference.cache
+C:\Users\CB185249\source\repos\CalculateContract\CalculateContract\obj\Debug\CalculateContract.csproj.CoreCompileInputs.cache
+C:\Users\CB185249\source\repos\CalculateContract\CalculateContract\obj\Debug\CalculateContract.dll
+C:\Users\CB185249\source\repos\CalculateContract\CalculateContract\obj\Debug\CalculateContract.pdb
